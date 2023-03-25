@@ -33,3 +33,5 @@ https://assets.ccbp.in/frontend/react-js/mango-img.png"
     )
   }
 }
+
+export default FruitsCounter
